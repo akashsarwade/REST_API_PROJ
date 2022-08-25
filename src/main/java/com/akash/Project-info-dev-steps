@@ -1,0 +1,13 @@
+	creation project and files
+		created spring boot starter project with spring web  dependency
+		created packages and inside packages created classes
+			entity		-user
+			service		-UserService
+			controller	-UserController
+		
+		User Class
+			make it as a entity
+			create User data like
+			fname,lname,address,DOB,Qualification, company Name, salary
+			
+			
